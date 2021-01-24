@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "<h1 align=\"center\">Welcome to 3D-Card 👋</h1> <p>   <img alt=\"Version\" src=\"https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000\" />   <a href=\"coming\" target=\"_blank\">     <img alt=\"License: MIT\" src=\"https://img.shields.io/badge/License-MIT-yellow.svg\" />   </a> </p>",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farid212/3d-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farid212/3d-card/issues"
+  },
+  "homepage": "https://github.com/Farid212/3d-card#readme"
 }
